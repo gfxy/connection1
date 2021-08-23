@@ -3,3 +3,10 @@ public class A{
 		System.out.println("hello");
 	}
 }
+Class B{
+	private String name;
+	private Integer age;
+	private void setName(String name){
+		this.name=name;
+	}
+}
